@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Schlüssel und lokale Einstellungen
+.env
+!.env.example
+# Laufzeitdateien von PandasAI
+pandasai.log
+/exports/
+# Ergebnisse der eigenen Läufe
+/berichte/
+/data_kosten/
+project/playground/*
+!project/playground/README.md
+# Betriebssystem
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+Problem,Spalte,Anzahl,Vorschlag
+Dubletten (Zeile doppelt geliefert),alle,398,entfernen
+Kosten fehlen,kosten,657,"markieren, nicht löschen"
+Datum als TT.MM.JJJJ statt JJJJ-MM-TT,datum,7837,beide Formate lesen
+Schreibweisen für 4 Regionen,region,14,vereinheitlichen
+Umsatz über 5.000 € in einer Zeile,umsatz,4,fachlich prüfen

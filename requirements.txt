@@ -1,0 +1,11 @@
+# Kurs „Generative KI in der Datenanalyse" – Python 3.11
+# Installation:  python -m pip install -r requirements.txt
+pandas==2.3.3
+numpy==1.26.4
+openpyxl==3.1.5
+plotly==7.1.0
+scikit-learn==1.9.1
+pandasai==3.0.0
+pandasai-litellm==0.0.1
+matplotlib==3.7.5
+ipykernel==7.4.0

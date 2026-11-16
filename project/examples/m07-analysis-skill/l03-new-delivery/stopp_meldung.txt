@@ -1,0 +1,6 @@
+# Lauf mit nordwind_umsatz_2026_10_defekt.csv in data/ (Spalte umsatz heißt dort umsatz_eur)
+# Befehl im Kursordner:
+#   python .github/skills/monatsbericht/scripts/monatsbericht.py bericht --daten data --monat 2026-10 --excel
+# Terminal-Ausgabe (Exit-Code 2, kein Bericht, keine Excel-Datei):
+
+STOPP: Pflichtspalte umsatz fehlt in nordwind_umsatz_2026_10_defekt.csv
