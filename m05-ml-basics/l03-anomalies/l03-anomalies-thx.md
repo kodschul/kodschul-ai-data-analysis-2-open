@@ -103,5 +103,6 @@ Kleinere Schwelle = mehr Treffer und mehr Fehlalarme; größere Schwelle = wenig
 - Abstand in Standardabweichungen macht Tage verschiedener Regionen und Monate vergleichbar.
 - `find_anomalies(df, schwelle=3)` findet bei Nordwind 11 Tage, darunter beide dokumentierten Fälle; Schwelle 4 nur diese zwei.
 - Die Regel meldet, der Mensch entscheidet: Datenfehler korrigieren, echte Ereignisse erklären.
+- Im Bericht v2 (Lab 6.2) steckt dieselbe Regel in `find_anomalies(df, schwelle=SCHWELLE_STANDARD)` (Standard 3, je Gruppe und Monat); `auffaellige_tage(tage, monat)` zeigt nur den Berichtsmonat, die Option `--schwelle` ändert die Schwelle ohne Codeänderung.
 
 In der Übung entsteht `find_anomalies` mit Copilot und wird im Diagramm geprüft.

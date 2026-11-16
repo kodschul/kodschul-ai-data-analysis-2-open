@@ -129,5 +129,6 @@ _Quelle: eigene Auswertung, Nordwind-Daten, 15.11.2026._
 - Saison steckt im Vorjahresmonat, Trend im Trendfaktor; zusammen ergeben sie eine einfache, erklärbare Prognose.
 - Erst der Backtest zeigt, ob eine Formel taugt: 4,8 % MAPE gegen 7,7 % für die naive Messlatte.
 - Eine Prognose weiß nur, was in den Daten steht; Strukturbrüche und Datenfehler wirken direkt auf das Ergebnis.
+- Im Bericht v2 (Lab 6.2) wird daraus die Funktion `prognose(df, monat)`: dieselbe Formel für `PROGNOSE_MONATE = 3` Folgemonate, ohne Backtest; bei weniger als `MIN_MONATE_PROGNOSE = 24` Monaten Historie wird sie mit Meldung übersprungen.
 
 In der Übung entsteht `prognose_einfach` mit Copilot, danach laufen Backtest und Prognose.

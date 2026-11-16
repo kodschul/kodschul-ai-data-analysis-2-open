@@ -113,7 +113,7 @@ _Quelle: eigene Auswertung (Terminal-Ausgabe), Nordwind-Daten, 15.11.2026._
 
 ## Schrittweises Laden
 
-Ein Agent kennt viele Skills, lädt aber nur, was er gerade braucht:
+Ein Agent kennt viele Skills, lädt aber nur, was er gerade braucht – wie bei einem Regal mit Aktenordnern: Zuerst liest er nur die Rückenschilder (Name und Beschreibung), einen Ordner öffnet er erst, wenn das Thema passt.
 
 | Stufe | Was der Agent liest | Wann |
 | --- | --- | --- |

@@ -118,5 +118,6 @@ _Quelle: eigene Auswertung, Nordwind-Daten, 15.11.2026._
 - k-Means gruppiert Kunden um Mittelpunkte; vorher müssen die Merkmale skaliert werden.
 - Die Zahl der Segmente und ihre Namen sind fachliche Entscheidungen, keine Rechenergebnisse.
 - Bei Nordwind bringen 14 Top-Kunden gut ein Viertel des Umsatzes; 55 Kunden haben im Schnitt seit 302 Tagen nicht gekauft.
+- Im Bericht v2 (Lab 6.2) wird daraus die Funktion `segmente(df, monat)`: dieselbe Methode mit RFM bis zum Ende des Berichtsmonats, Anzahl als Einstellung `ANZAHL_SEGMENTE = 4`; die Namen bleiben eine fachliche Entscheidung, der Bericht zeigt Nummern 1–4.
 
 In der Übung entstehen die Segmente im Notebook und bekommen Namen.

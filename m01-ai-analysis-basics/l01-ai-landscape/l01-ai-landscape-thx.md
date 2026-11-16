@@ -54,14 +54,26 @@ Wenn sie im Juli jedes Jahr Alarm schlägt (Sommerloch) und den echten Fehler im
 | --- | --- | --- |
 | 1956 | Dartmouth-Workshop: der Begriff „Artificial Intelligence" wird zum Forschungsfeld | McCarthy et al., Antrag vom 31.08.1955 (jmc.stanford.edu/articles/dartmouth/dartmouth.pdf) |
 | 1959 | Arthur Samuel prägt „Machine Learning": sein Dame-Programm lernt aus Partien | Samuel, IBM Journal of Research and Development 3(3), 1959 |
+| 2008 | Wes McKinney beginnt pandas, die Tabellen-Bibliothek für Python; Ende 2009 wird sie Open Source | pandas.pydata.org/about, abgerufen am 16.11.2026 |
 | 2012 | AlexNet gewinnt den ImageNet-Wettbewerb deutlich: Durchbruch für Deep Learning | Krizhevsky, Sutskever, Hinton, NeurIPS 2012 (papers.nips.cc) |
 | 2017 | Die Transformer-Architektur erscheint, Grundlage heutiger Sprachmodelle | Vaswani et al., „Attention Is All You Need" (arxiv.org/abs/1706.03762) |
 | 30.11.2022 | OpenAI veröffentlicht ChatGPT; Sprachmodelle werden Alltagswerkzeug | openai.com/index/chatgpt |
 | 2024 → 2026 | Anteil der Unternehmen in Deutschland mit KI-Einsatz: 20 % (2024, Destatis, ab 10 Beschäftigten); 57 % (2026, Bitkom-Befragung, ab 20 Beschäftigten) | destatis.de, Pressemitteilung 444 vom 25.11.2024; bitkom.org, Presseinformation vom 14.09.2026 |
 
-Bekannte Beispiele: Absatzprognosen im Handel, Betrugserkennung bei Kartenzahlungen (Anomalien), Kundensegmente im Marketing, KI-Assistenten in Excel, Power BI und VS Code, die Formeln, Code und Kommentare vorschlagen.
+Wo es heute steht: Der Anteil der Unternehmen in Deutschland (ab 10 Beschäftigten), die KI nutzen, stieg von 11 % (2021) über 12 % (2023) und 20 % (2024) auf 26 % (2025). Von den KI-nutzenden Unternehmen setzten 2025 23 % maschinelles Lernen ein, 52 % werteten Texte aus (Text Mining). _Quelle: Statistisches Bundesamt (Destatis), Pressemitteilung Nr. 444 vom 25.11.2024 und Tabelle „Unternehmen, die künstliche Intelligenz nutzen“, Stand 24.11.2025 (destatis.de), abgerufen am 16.11.2026._
 
-Einsatz im Controlling und Reporting: Lieferdateien prüfen, Monatsberichte automatisieren, Umsatz hochrechnen, Ausreißer melden, Freitext-Feedback auszählen, Abweichungen in Worte fassen. Die beiden Unternehmenszahlen stammen aus unterschiedlichen Erhebungen und sind nicht direkt vergleichbar (Stand: 15.11.2026).
+Bekannte Beispiele: Absatzprognosen im Handel, Betrugserkennung bei Kartenzahlungen (Anomalien), Kundensegmente im Marketing, KI-Assistenten in Excel, Power BI und VS Code, die Formeln, Code und Kommentare vorschlagen, und KI-Chats mit Datei-Upload wie ChatGPT oder Claude, die Fragen zu einer Tabelle beantworten.
+
+Einsatz im Controlling und Reporting: Lieferdateien prüfen, Monatsberichte automatisieren, Umsatz hochrechnen, Ausreißer melden, Freitext-Feedback auszählen, Abweichungen in Worte fassen. Die beiden Unternehmenszahlen aus Destatis und Bitkom stammen aus unterschiedlichen Erhebungen und sind nicht direkt vergleichbar (Stand: 16.11.2026).
+
+| Rolle | Was sich mit KI ändert |
+| --- | --- |
+| Controlling | Monatsbericht auf Knopfdruck, jeden Monat dieselbe geprüfte Zahl; mehr Zeit für die Erklärung |
+| BI und Reporting | Berichte und Diagramme aus einem Skript statt Klickfolgen; jede Zahl nachrechenbar |
+| Datenanalyse | KI schreibt Prüf- und Analysecode mit; Muster wie Gruppen und Ausreißer in Minuten |
+| Marketing | alle Kundenkommentare statt einer Stichprobe; Kundengruppen für Kampagnen |
+
+Für alle Rollen gilt: Die KI arbeitet zu, der Mensch prüft und entscheidet.
 
 ## Der Ablauf einer Analyse
 

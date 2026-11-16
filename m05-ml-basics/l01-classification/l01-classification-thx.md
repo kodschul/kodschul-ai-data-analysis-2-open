@@ -124,5 +124,6 @@ _Quelle: Wikimedia Commons, Chabacano, CC BY-SA 4.0 (https://commons.wikimedia.o
 - Überwachtes Lernen braucht Beispiele mit bekannter Antwort; der Ablauf ist immer Split → `fit` → `predict` → bewerten.
 - Eine Genauigkeit sagt nur etwas im Vergleich mit einer einfachen Messlatte.
 - Gemessen wird an Testdaten, die das Modell beim Lernen nicht gesehen hat.
+- Lab 5.1 ist das Lernlabor für den Ablauf: Das Wiederkauf-Modell geht nicht in `monatsbericht.py` v2; dort landen Segmente, Auffälligkeiten und Prognose (Lab 5.2, 5.3, 6.1).
 
 In der Übung läuft das Wiederkauf-Notebook mit drei Testanteilen.
